@@ -17,4 +17,5 @@ def age_appropriate_birthday(birthday_kids)
     else
       puts "Whose birthday is it?"
     end
+  end
 end
